@@ -1,0 +1,17 @@
+body {
+	background-color: red;
+}
+
+p {
+	color: yellow;
+}
+
+.purpleText {
+	color: purple;
+	font-size: 18pt;
+}
+
+#myFirstId {
+
+	color:green;
+}
