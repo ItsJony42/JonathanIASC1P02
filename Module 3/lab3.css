@@ -1,17 +1,12 @@
-body {
-	background-color: red;
+#firstHeader	{
+		color: red;
+		font-weight: bold;
+	}
+
+.greenText {
+	color: green;
 }
 
-p {
-	color: yellow;
-}
-
-.purpleText {
-	color: purple;
-	font-size: 18pt;
-}
-
-#myFirstId {
-
-	color:green;
+.greenText {
+	font-style: italic;
 }

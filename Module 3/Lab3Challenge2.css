@@ -1,0 +1,20 @@
+
+body{
+	background-color: red;
+}
+
+ul{
+	color: green;
+}
+
+ul{
+	font-style: italic;
+}
+
+li{
+	font-size: 30px;
+}
+
+li{
+	 display: inline;
+}
