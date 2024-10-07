@@ -1,0 +1,28 @@
+div.Content {
+  text-align: center;
+  font-size: 13px;
+  border: purple 3px dotted;
+  padding: 197px 10px 5px 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#text {
+  text-align: center;
+  color: green;
+  font-size: 7px;
+}
+
+#more {
+  font-size: 23px;
+  color: orange;
+  margin-left: 20px;
+}
+
+#believe {
+  font-size: 5px;
+  text-align: right;
+  margin-top: 30px;
+  margin-right: 30px;
+  color: purple;
+}

@@ -1,0 +1,37 @@
+p {
+  color: green;
+}
+
+/*Grouped Selector*/
+/*Selects all div and p tags*/
+
+div, p{
+  color: green;
+}
+
+/*Nested/Descendant Selector*/
+
+div p{
+  color: purple;
+}
+
+/*element.class selector */
+/*selects all div tags that have the myDiv class*/
+
+div.myDiv{
+  background-color: red;
+}
+
+/*direct child selector*/
+/*p tags that are direct children of div*/
+
+div > p{
+  background-color: orange;
+}
+
+/*general sibling selector */
+/*p tags that are after a div where both tags have the same parent */
+
+div ~ p {
+  background-color: red;
+}
