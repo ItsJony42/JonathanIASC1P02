@@ -2,10 +2,7 @@ div {
   background-color: green;
 }
 
-div > p{
-  border: black 3px dotted;
-  padding: 10px 10px 10px 10px;
-}
+
 div.sentence1{
   color: red;
 }

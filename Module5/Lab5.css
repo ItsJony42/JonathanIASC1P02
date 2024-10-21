@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+
+p{
+  color: red;
+}
+
+#boxcat{
+  width: 200 px;
+  height: 200 px;
+}

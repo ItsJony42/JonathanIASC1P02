@@ -1,0 +1,43 @@
+.spyro {
+  margin: 10px 10px 10px 10px;
+  border: black 5px dotted;
+  padding: 10px 10px 10px 10px;
+}
+
+
+
+.Giants, .giants {
+  color: orange;
+}
+
+.giants {
+  font-size: 20px;
+}
+
+.Swap {
+  font-family: "Impact", sans-serif;
+}
+
+.swap {
+  text-transform: lowercase;
+}
+
+.swap p{color:blue;} /* i cannot figure out how to get this to work */
+
+.history {
+  background-color: black;
+  color: white;
+  position: fixed; left: 40%
+}
+
+.charge {
+  position: absolute; left: 300px
+}
+
+.super {
+  position: absolute; left: 30px
+}
+
+.image {
+  position: relative; top: 15px
+}
