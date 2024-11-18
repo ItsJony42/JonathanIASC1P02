@@ -17,6 +17,8 @@ document.getElementById("three").style.textTransform = "uppercase";
 document.getElementById("three").style.color = "red";
 }
 
+var start
+start = new Date()
 
 var mathX;
 mathX = 5;
