@@ -1,0 +1,269 @@
+html {
+  background-color: darkorange;
+}
+
+body {
+  margin-left: 375px;
+  margin-right: 375px;
+  background-color: white;
+  border: 3px solid black;
+}
+
+#InfinitySaga {
+  text-align: center;
+  border: 5px solid orange;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+#Home {
+  color: red;
+  border: 3px solid black;
+  margin-left: 330px;
+}
+
+#Multiverse {
+  color: purple;
+  border: 3px solid black;
+  margin-left: 290px;
+}
+
+#overview {
+  text-align: center;
+  border: 4px dotted orange;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 5px 5px 5px 5px;
+}
+
+#Infinityposter {
+  height: 300px;
+  width: 500px;
+  position: relative; left: 15%;
+}
+
+/*Phase Details */
+
+.phase {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.phases {
+  text-align: center;
+  margin-left: 220px;
+  margin-right: 220px;
+}
+
+.Phases {
+  padding: 5px;
+  display: none;
+  text-align: center;
+}
+
+/*Phase One */
+
+#IronMan:hover + #IronDesc{
+background-color: orange;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Hulk:hover + #HulkDesc{
+background-color: darkgreen;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#IronMan2:hover + #Iron2Desc {
+background-color: silver;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Thor:hover + #ThorDesc {
+background-color: firebrick;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#CapAm:hover + #CapDesc {
+background-color: cornflowerblue;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Avengers:hover + #AvengersDesc {
+background-color: green;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#P1 {
+  height: 300px;
+  width: 350px;
+  position: relative; left: 25%;
+}
+
+/*Phase Two */
+
+#Iron3:hover + #Iron3Desc {
+background-color: crimson;
+color: white;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Thor2:hover + #Thor2Desc {
+background-color: grey;
+color: white;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Cap2:hover + #Cap2Desc {
+background-color: blue;
+color: white;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#GOTG:hover + #GOTGDesc {
+background-color: purple;
+color: white;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#AOU:hover + #AOUDesc {
+background-color: red;
+color: white;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Ant:hover + #AntDesc {
+background-color: lightcoral;
+color: white;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#P2 {
+  height: 300px;
+  width: 350px;
+  position: relative; left: 25%;
+}
+
+/* Phase Three */
+
+#Cap3:hover + #Cap3Desc{
+background-color: cornflowerblue;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Doc:hover + #DocDesc{
+background-color: red;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#GOTG2:hover + #GOTG2Desc{
+background-color: purple;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Spidey:hover + #SpideyDesc{
+background-color: orange;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Thor3:hover + #Thor3Desc{
+background-color: yellow;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#BP:hover + #BPDesc{
+background-color: black;
+color: purple;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Avengers3:hover + #Avengers3Desc{
+background-color: orange;
+color: white;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Ant2:hover + #Ant2Desc{
+background-color: red;
+color: yellow;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#CM:hover + #CMDesc{
+background-color: red;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Avengers4:hover + #Avengers4Desc{
+background-color: purple;
+color: white;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Spidey2:hover + #Spidey2Desc{
+background-color: blue;
+color: white;
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#Infinity {
+  height: 300px;
+  width: 500px;
+  position: relative; left: 15%;
+}
+
+#return {
+  margin-left: 300px;
+  color: black;
+  border: 3px solid orange;
+  padding: 2px 2px 2px 2px;
+}
+
+#credits {
+  text-align: center;
+}
